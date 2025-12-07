@@ -1,0 +1,350 @@
+municipio,SAFRA,REGIAO,AREA TOTAL,PRODUCAO,YIELD_SC_HA
+Bandeirantes,00/01,Norte,7500,19500.0,43.33
+Bandeirantes,01/02,Norte,9000,17100.0,31.67
+Bandeirantes,02/03,Norte,9900,25740.0,43.33
+Bandeirantes,03/04,Norte,12000,31200.0,43.33
+Bandeirantes,04/05,Norte,15500,29450.0,31.67
+Bandeirantes,05/06,Norte,16300,36349.0,37.17
+Bandeirantes,06/07,Norte,14350,39462.5,45.83
+Bandeirantes,07/08,Norte,13400,38190.0,47.5
+Bandeirantes,08/09,Norte,13550,26829.0,33.0
+Bandeirantes,09/10,Norte,13700,40826.0,49.67
+Bandeirantes,10/11,Norte,14140,49207.2,58.0
+Bandeirantes,11/12,Norte,14500,32349.5,37.18
+Bandeirantes,12/13,Norte,15500,50220.0,54.0
+Bandeirantes,13/14,Norte,16190,23637.4,24.33
+Bandeirantes,14/15,Norte,17480,46147.2,44.0
+Bandeirantes,15/16,Norte,18160,50121.6,46.0
+Bandeirantes,16/17,Norte,18200,63336.0,58.0
+Bandeirantes,17/18,Norte,18240,56908.8,52.0
+Bandeirantes,18/19,Norte,18250,49275.0,45.0
+Bandeirantes,19/20,Norte,18250,60225.0,55.0
+Bandeirantes,20/21,Norte,18320,62654.4,57.0
+Bandeirantes,21/22,Norte,18250,52560.0,48.0
+Bandeirantes,22/23,Norte,18800,66552.0,59.0
+Bandeirantes,23/24,Norte,18400,34224.0,31.0
+Bandeirantes,96/97,Norte,6000,13200.0,36.67
+Bandeirantes,97/98,Norte,7100,13206.0,31.0
+Bandeirantes,98/99,Norte,6000,15600.0,43.33
+Bandeirantes,99/00,Norte,7500,13013.0,28.92
+Campina do Simão,00/01,Sul,3400,9860.0,48.33
+Campina do Simão,01/02,Sul,4300,10965.0,42.5
+Campina do Simão,02/03,Sul,4900,13720.0,46.67
+Campina do Simão,03/04,Sul,5600,14560.0,43.33
+Campina do Simão,04/05,Sul,6100,12200.0,33.33
+Campina do Simão,05/06,Sul,5900,14750.0,41.67
+Campina do Simão,06/07,Sul,6400,17600.0,45.83
+Campina do Simão,07/08,Sul,5800,15370.0,44.17
+Campina do Simão,08/09,Sul,5950,14875.0,41.67
+Campina do Simão,09/10,Sul,6620,18535.0,46.66
+Campina do Simão,10/11,Sul,6810,21440.0,52.47
+Campina do Simão,11/12,Sul,6100,15860.0,43.33
+Campina do Simão,12/13,Sul,6300,19215.0,50.83
+Campina do Simão,13/14,Sul,7900,24885.0,52.5
+Campina do Simão,14/15,Sul,8400,26040.0,51.67
+Campina do Simão,15/16,Sul,8600,27950.0,54.17
+Campina do Simão,16/17,Sul,9700,36666.0,63.0
+Campina do Simão,17/18,Sul,10100,34643.0,57.17
+Campina do Simão,18/19,Sul,10550,35448.0,56.0
+Campina do Simão,19/20,Sul,10820,42065.0,64.8
+Campina do Simão,20/21,Sul,10920,38115.0,58.17
+Campina do Simão,21/22,Sul,11280,37928.0,56.04
+Campina do Simão,22/23,Sul,11720,47912.0,68.13
+Campina do Simão,23/24,Sul,12160,47328.0,64.87
+Campina do Simão,96/97,Sul,3700,9250.0,41.67
+Campina do Simão,97/98,Sul,3900,10530.0,45.0
+Campina do Simão,98/99,Sul,3500,8820.0,42.0
+Campina do Simão,99/00,Sul,3300,7755.0,39.17
+Cruzeiro do Sul,00/01,Noroeste,600,2100.0,58.33
+Cruzeiro do Sul,01/02,Noroeste,1600,5552.0,57.83
+Cruzeiro do Sul,02/03,Noroeste,2122,7363.34,57.83
+Cruzeiro do Sul,03/04,Noroeste,2240,3360.0,25.0
+Cruzeiro do Sul,04/05,Noroeste,2200,6380.0,48.33
+Cruzeiro do Sul,05/06,Noroeste,2132,4264.0,33.33
+Cruzeiro do Sul,06/07,Noroeste,2000,6000.0,50.0
+Cruzeiro do Sul,07/08,Noroeste,1920,4224.0,36.67
+Cruzeiro do Sul,08/09,Noroeste,1920,4128.0,35.83
+Cruzeiro do Sul,09/10,Noroeste,1843,5919.72,53.53
+Cruzeiro do Sul,10/11,Noroeste,1939,6398.7,55.0
+Cruzeiro do Sul,11/12,Noroeste,1939,2924.0,25.13
+Cruzeiro do Sul,12/13,Noroeste,2100,7854.0,62.33
+Cruzeiro do Sul,13/14,Noroeste,2200,5297.6,40.13
+Cruzeiro do Sul,14/15,Noroeste,2400,8040.0,55.83
+Cruzeiro do Sul,15/16,Noroeste,1950,5362.5,45.83
+Cruzeiro do Sul,16/17,Noroeste,2000,7000.0,58.33
+Cruzeiro do Sul,17/18,Noroeste,2500,7750.0,51.67
+Cruzeiro do Sul,18/19,Noroeste,3700,6419.5,28.92
+Cruzeiro do Sul,19/20,Noroeste,4300,12900.0,50.0
+Cruzeiro do Sul,20/21,Noroeste,4500,13500.0,50.0
+Cruzeiro do Sul,21/22,Noroeste,4244,8415.85,33.05
+Cruzeiro do Sul,22/23,Noroeste,5404,19454.4,60.0
+Cruzeiro do Sul,23/24,Noroeste,5938,13983.99,39.25
+Cruzeiro do Sul,96/97,Noroeste,470,1175.0,41.67
+Cruzeiro do Sul,97/98,Noroeste,350,910.0,43.33
+Cruzeiro do Sul,98/99,Noroeste,350,1015.0,48.33
+Cruzeiro do Sul,99/00,Noroeste,550,1320.0,40.0
+Diamante do Norte,03/04,Noroeste,290,189.0,10.86
+Diamante do Norte,04/05,Noroeste,270,48.6,3.0
+Diamante do Norte,05/06,Noroeste,270,405.0,25.0
+Diamante do Norte,12/13,Noroeste,116,272.6,39.17
+Diamante do Norte,13/14,Noroeste,210,328.0,26.03
+Diamante do Norte,14/15,Noroeste,350,945.0,45.0
+Diamante do Norte,15/16,Noroeste,430,1376.0,53.33
+Diamante do Norte,16/17,Noroeste,714,2284.8,53.33
+Diamante do Norte,17/18,Noroeste,1524,4876.8,53.33
+Diamante do Norte,18/19,Noroeste,1887,3585.3,31.67
+Diamante do Norte,19/20,Noroeste,3783,9835.8,43.33
+Diamante do Norte,20/21,Noroeste,3400,10200.0,50.0
+Diamante do Norte,21/22,Noroeste,3400,6120.0,30.0
+Diamante do Norte,22/23,Noroeste,3400,13940.0,68.33
+Diamante do Norte,23/24,Noroeste,3400,6120.0,30.0
+Diamante do Norte,98/99,Noroeste,135,405.0,50.0
+Diamante do Norte,99/00,Noroeste,90,180.0,33.33
+Diamante do Sul,00/01,Sul,100,340.0,56.67
+Diamante do Sul,01/02,Sul,180,360.0,33.33
+Diamante do Sul,02/03,Sul,350,1050.0,50.0
+Diamante do Sul,03/04,Sul,500,1150.0,38.33
+Diamante do Sul,04/05,Sul,800,1600.0,33.33
+Diamante do Sul,05/06,Sul,2550,7650.0,50.0
+Diamante do Sul,06/07,Sul,800,2440.0,50.83
+Diamante do Sul,07/08,Sul,980,3116.0,52.99
+Diamante do Sul,08/09,Sul,1300,2390.0,30.64
+Diamante do Sul,09/10,Sul,1910,5407.8,47.19
+Diamante do Sul,10/11,Sul,1330,4079.5,51.12
+Diamante do Sul,11/12,Sul,1100,1914.0,29.0
+Diamante do Sul,12/13,Sul,1050,3255.0,51.67
+Diamante do Sul,13/14,Sul,1270,3784.6,49.67
+Diamante do Sul,14/15,Sul,2000,6300.0,52.5
+Diamante do Sul,15/16,Sul,1700,4930.0,48.33
+Diamante do Sul,16/17,Sul,1600,5760.0,60.0
+Diamante do Sul,17/18,Sul,1700,5270.0,51.67
+Diamante do Sul,18/19,Sul,1600,4768.0,49.67
+Diamante do Sul,19/20,Sul,1900,7068.0,62.0
+Diamante do Sul,20/21,Sul,2000,6200.0,51.67
+Diamante do Sul,21/22,Sul,2600,3536.0,22.67
+Diamante do Sul,22/23,Sul,2705,11048.5,68.07
+Diamante do Sul,23/24,Sul,3005,9308.05,51.63
+Diamante do Sul,96/97,Sul,50,150.0,50.0
+Diamante do Sul,97/98,Sul,70,210.0,50.0
+Diamante do Sul,98/99,Sul,96,297.6,51.67
+Diamante do Sul,99/00,Sul,96,297.6,51.67
+Francisco Alves,00/01,Noroeste,3910,13492.5,57.51
+Francisco Alves,01/02,Noroeste,5000,16750.0,55.83
+Francisco Alves,02/03,Noroeste,9000,27000.0,50.0
+Francisco Alves,03/04,Noroeste,15000,30000.0,33.33
+Francisco Alves,04/05,Noroeste,16000,48000.0,50.0
+Francisco Alves,05/06,Noroeste,15300,22860.0,24.9
+Francisco Alves,06/07,Noroeste,14077,41077.0,48.63
+Francisco Alves,07/08,Noroeste,13507,33757.0,41.65
+Francisco Alves,08/09,Noroeste,13890,16586.4,19.9
+Francisco Alves,09/10,Noroeste,13820,43994.0,53.06
+Francisco Alves,10/11,Noroeste,13730,43909.0,53.3
+Francisco Alves,11/12,Noroeste,14350,19447.0,22.59
+Francisco Alves,12/13,Noroeste,15485,43729.0,47.07
+Francisco Alves,13/14,Noroeste,16250,38950.0,39.95
+Francisco Alves,14/15,Noroeste,16860,51690.0,51.1
+Francisco Alves,15/16,Noroeste,17080,61320.0,59.84
+Francisco Alves,16/17,Noroeste,17250,58650.0,56.67
+Francisco Alves,17/18,Noroeste,18400,66240.0,60.0
+Francisco Alves,18/19,Noroeste,18600,31620.0,28.33
+Francisco Alves,19/20,Noroeste,19000,66500.0,58.33
+Francisco Alves,20/21,Noroeste,19000,62700.0,55.0
+Francisco Alves,21/22,Noroeste,19000,9120.0,8.0
+Francisco Alves,22/23,Noroeste,19750,35550.0,30.0
+Francisco Alves,23/24,Noroeste,19080,38160.0,33.33
+Francisco Alves,96/97,Noroeste,2100,4105.0,32.58
+Francisco Alves,97/98,Noroeste,3100,6140.0,33.01
+Francisco Alves,98/99,Noroeste,3500,9975.0,47.5
+Francisco Alves,99/00,Noroeste,4000,8800.0,36.67
+Imbaú,00/01,Sul,1100,3190.0,48.33
+Imbaú,01/02,Sul,1300,3770.0,48.33
+Imbaú,02/03,Sul,1500,4500.0,50.0
+Imbaú,03/04,Sul,1500,4200.0,46.67
+Imbaú,04/05,Sul,1750,3675.0,35.0
+Imbaú,05/06,Sul,1300,3770.0,48.33
+Imbaú,06/07,Sul,2000,6000.0,50.0
+Imbaú,07/08,Sul,1800,4860.0,45.0
+Imbaú,08/09,Sul,1800,4914.0,45.5
+Imbaú,09/10,Sul,2000,6000.0,50.0
+Imbaú,10/11,Sul,2350,7520.0,53.33
+Imbaú,11/12,Sul,2300,6900.0,50.0
+Imbaú,12/13,Sul,2450,8575.0,58.33
+Imbaú,13/14,Sul,2080,5360.0,42.95
+Imbaú,14/15,Sul,2220,7478.0,56.14
+Imbaú,15/16,Sul,2225,7212.5,54.03
+Imbaú,16/17,Sul,2055,7809.0,63.33
+Imbaú,17/18,Sul,2270,8399.0,61.67
+Imbaú,18/19,Sul,3280,10168.0,51.67
+Imbaú,19/20,Sul,3050,11490.0,62.79
+Imbaú,20/21,Sul,3050,11210.0,61.26
+Imbaú,21/22,Sul,2750,9815.0,59.48
+Imbaú,22/23,Sul,2850,10485.0,61.32
+Imbaú,23/24,Sul,2850,9930.0,58.07
+Imbaú,96/97,Sul,280,700.0,41.67
+Imbaú,97/98,Sul,1000,2500.0,41.67
+Imbaú,98/99,Sul,1200,3000.0,41.67
+Imbaú,99/00,Sul,1300,3640.0,46.67
+Lindoeste,00/01,Oeste,2000,5800.0,48.33
+Lindoeste,01/02,Oeste,3000,8550.0,47.5
+Lindoeste,02/03,Oeste,3000,8400.0,46.67
+Lindoeste,03/04,Oeste,2000,5760.0,48.0
+Lindoeste,04/05,Oeste,3410,7767.0,37.96
+Lindoeste,05/06,Oeste,3650,6570.0,30.0
+Lindoeste,06/07,Oeste,5800,20300.0,58.33
+Lindoeste,07/08,Oeste,5825,18736.78,53.61
+Lindoeste,08/09,Oeste,5800,16240.0,46.67
+Lindoeste,09/10,Oeste,6400,20310.0,52.89
+Lindoeste,10/11,Oeste,6300,20160.0,53.33
+Lindoeste,11/12,Oeste,6260,12520.0,33.33
+Lindoeste,12/13,Oeste,6300,21086.1,55.78
+Lindoeste,13/14,Oeste,12550,43925.0,58.33
+Lindoeste,14/15,Oeste,13012,42138.65,53.97
+Lindoeste,15/16,Oeste,13260,45987.26,57.8
+Lindoeste,16/17,Oeste,12920,44574.0,57.5
+Lindoeste,17/18,Oeste,13070,48607.3,61.98
+Lindoeste,18/19,Oeste,9000,26100.0,48.33
+Lindoeste,19/20,Oeste,8020,32721.6,68.0
+Lindoeste,20/21,Oeste,10500,39900.0,63.33
+Lindoeste,21/22,Oeste,10815,12112.8,18.67
+Lindoeste,22/23,Oeste,11605,52222.5,75.0
+Lindoeste,23/24,Oeste,11450,39742.95,57.85
+Lindoeste,96/97,Oeste,950,2505.4,43.95
+Lindoeste,97/98,Oeste,2400,6000.0,41.67
+Lindoeste,98/99,Oeste,2900,7250.0,41.67
+Lindoeste,99/00,Oeste,3150,7875.0,41.67
+Mato Rico,00/01,Sul,2515,7170.27,47.52
+Mato Rico,01/02,Sul,3000,8700.0,48.33
+Mato Rico,02/03,Sul,3500,11200.0,53.33
+Mato Rico,03/04,Sul,3500,9800.0,46.67
+Mato Rico,04/05,Sul,4630,9954.5,35.83
+Mato Rico,05/06,Sul,3400,8500.0,41.67
+Mato Rico,06/07,Sul,4000,11600.0,48.33
+Mato Rico,07/08,Sul,4200,12600.0,50.0
+Mato Rico,08/09,Sul,4400,12760.0,48.33
+Mato Rico,09/10,Sul,5250,16275.0,51.67
+Mato Rico,10/11,Sul,5250,17062.5,54.17
+Mato Rico,11/12,Sul,5500,16500.0,50.0
+Mato Rico,12/13,Sul,9000,22500.0,41.67
+Mato Rico,13/14,Sul,10400,31200.0,50.0
+Mato Rico,14/15,Sul,10600,31800.0,50.0
+Mato Rico,15/16,Sul,9200,21620.0,39.17
+Mato Rico,16/17,Sul,9200,34500.0,62.5
+Mato Rico,17/18,Sul,9200,34960.0,63.33
+Mato Rico,18/19,Norte,9500,31825.0,55.83
+Mato Rico,19/20,Sul,9600,35520.0,61.67
+Mato Rico,20/21,Sul,10300,35741.0,57.83
+Mato Rico,21/22,Norte,13000,28600.0,36.67
+Mato Rico,22/23,Sul,13800,48300.0,58.33
+Mato Rico,23/24,Sul,13900,46565.0,55.83
+Mato Rico,96/97,Sul,1000,2200.0,36.67
+Mato Rico,97/98,Sul,1500,3300.0,36.67
+Mato Rico,98/99,Sul,1500,3300.0,36.67
+Mato Rico,99/00,Sul,1500,3720.0,41.33
+Moreira Sales,00/01,Centro-oeste,3000,8553.0,47.52
+Moreira Sales,01/02,Centro-oeste,6300,18742.5,49.58
+Moreira Sales,02/03,Centro-oeste,10250,27951.75,45.45
+Moreira Sales,03/04,Centro-oeste,14000,32970.0,39.25
+Moreira Sales,04/05,Centro-oeste,15500,32550.0,35.0
+Moreira Sales,05/06,Centro-oeste,15000,37200.0,41.33
+Moreira Sales,06/07,Centro-oeste,14000,42000.0,50.0
+Moreira Sales,07/08,Centro-oeste,14000,37520.0,44.67
+Moreira Sales,08/09,Centro-oeste,15300,37109.5,40.42
+Moreira Sales,09/10,Centro-oeste,12300,39021.0,52.87
+Moreira Sales,10/11,Centro-oeste,12000,39264.0,54.53
+Moreira Sales,11/12,Centro-oeste,13000,30615.0,39.25
+Moreira Sales,12/13,Centro-oeste,13116,41858.8,53.19
+Moreira Sales,13/14,Centro-oeste,13100,43636.0,55.52
+Moreira Sales,14/15,Centro-oeste,13200,40560.0,51.21
+Moreira Sales,15/16,Centro-oeste,13500,38288.3,47.27
+Moreira Sales,16/17,Centro-oeste,13000,45123.0,57.85
+Moreira Sales,17/18,Centro-oeste,12200,40260.0,55.0
+Moreira Sales,18/19,Centro-oeste,13000,33839.0,43.38
+Moreira Sales,19/20,Centro-oeste,13100,40610.0,51.67
+Moreira Sales,20/21,Centro-oeste,13100,40610.0,51.67
+Moreira Sales,21/22,Centro-oeste,14000,13300.0,15.83
+Moreira Sales,22/23,Centro-oeste,14000,57260.0,68.17
+Moreira Sales,23/24,Centro-oeste,14000,30100.0,35.83
+Moreira Sales,96/97,Centro-oeste,1650,3960.0,40.0
+Moreira Sales,97/98,Centro-oeste,2000,4600.0,38.33
+Moreira Sales,98/99,Centro-oeste,2600,6500.0,41.67
+Moreira Sales,99/00,Centro-oeste,2200,5456.0,41.33
+Nova Esperança do Sudoeste,00/01,Sudoeste,350,1120.0,53.33
+Nova Esperança do Sudoeste,01/02,Sudoeste,1000,2500.0,41.67
+Nova Esperança do Sudoeste,02/03,Sudoeste,1000,3000.0,50.0
+Nova Esperança do Sudoeste,03/04,Sudoeste,2000,4000.0,33.33
+Nova Esperança do Sudoeste,04/05,Sudoeste,2300,2576.0,18.67
+Nova Esperança do Sudoeste,05/06,Sudoeste,1550,2800.0,30.11
+Nova Esperança do Sudoeste,06/07,Sudoeste,1450,4275.0,49.14
+Nova Esperança do Sudoeste,07/08,Sudoeste,1400,3920.0,46.67
+Nova Esperança do Sudoeste,08/09,Sudoeste,1500,3750.0,41.67
+Nova Esperança do Sudoeste,09/10,Sudoeste,2300,6700.0,48.55
+Nova Esperança do Sudoeste,10/11,Sudoeste,2100,7350.0,58.33
+Nova Esperança do Sudoeste,11/12,Sudoeste,2000,4000.0,33.33
+Nova Esperança do Sudoeste,12/13,Sudoeste,2050,6260.0,50.89
+Nova Esperança do Sudoeste,13/14,Sudoeste,2150,5965.0,46.24
+Nova Esperança do Sudoeste,14/15,Sudoeste,2420,7730.0,53.24
+Nova Esperança do Sudoeste,15/16,Sudoeste,2550,8340.0,54.51
+Nova Esperança do Sudoeste,16/17,Sudoeste,2300,8970.0,65.0
+Nova Esperança do Sudoeste,17/18,Sudoeste,1500,5400.0,60.0
+Nova Esperança do Sudoeste,18/19,Sudoeste,1700,4930.0,48.33
+Nova Esperança do Sudoeste,19/20,Sudoeste,1800,7560.0,70.0
+Nova Esperança do Sudoeste,20/21,Sudoeste,1950,7800.0,66.67
+Nova Esperança do Sudoeste,21/22,Sudoeste,2450,2205.0,15.0
+Nova Esperança do Sudoeste,22/23,Sudoeste,2900,11600.0,66.67
+Nova Esperança do Sudoeste,23/24,Sudoeste,2900,9280.0,53.33
+Nova Esperança do Sudoeste,96/97,Sudoeste,100,250.0,41.67
+Nova Esperança do Sudoeste,97/98,Sudoeste,150,330.0,36.67
+Nova Esperança do Sudoeste,98/99,Sudoeste,150,345.0,38.33
+Nova Esperança do Sudoeste,99/00,Sudoeste,150,345.0,38.33
+Pinhal de São Bento,00/01,Sudoeste,300,960.0,53.33
+Pinhal de São Bento,01/02,Sudoeste,400,1040.0,43.33
+Pinhal de São Bento,02/03,Sudoeste,600,1740.0,48.33
+Pinhal de São Bento,03/04,Sudoeste,800,1600.0,33.33
+Pinhal de São Bento,04/05,Sudoeste,1160,1334.0,19.17
+Pinhal de São Bento,05/06,Sudoeste,800,1704.0,35.5
+Pinhal de São Bento,06/07,Sudoeste,800,2400.0,50.0
+Pinhal de São Bento,07/08,Sudoeste,600,1680.0,46.67
+Pinhal de São Bento,08/09,Sudoeste,660,1188.0,30.0
+Pinhal de São Bento,09/10,Sudoeste,900,2905.0,53.8
+Pinhal de São Bento,10/11,Sudoeste,900,3060.0,56.67
+Pinhal de São Bento,11/12,Sudoeste,800,1520.0,31.67
+Pinhal de São Bento,12/13,Sudoeste,900,2710.0,50.19
+Pinhal de São Bento,13/14,Sudoeste,1300,3760.0,48.21
+Pinhal de São Bento,14/15,Sudoeste,1200,4200.0,58.33
+Pinhal de São Bento,15/16,Sudoeste,1900,6555.0,57.5
+Pinhal de São Bento,16/17,Sudoeste,1800,7020.0,65.0
+Pinhal de São Bento,17/18,Sudoeste,1800,6480.0,60.0
+Pinhal de São Bento,18/19,Sudoeste,1800,5940.0,55.0
+Pinhal de São Bento,19/20,Sudoeste,1900,7410.0,65.0
+Pinhal de São Bento,20/21,Sudoeste,2100,7770.0,61.67
+Pinhal de São Bento,21/22,Sudoeste,2320,2796.0,20.09
+Pinhal de São Bento,22/23,Sudoeste,2450,9445.0,64.25
+Pinhal de São Bento,23/24,Sudoeste,2450,9065.0,61.67
+Pinhal de São Bento,96/97,Sudoeste,220,506.0,38.33
+Pinhal de São Bento,97/98,Sudoeste,300,630.0,35.0
+Pinhal de São Bento,98/99,Sudoeste,300,690.0,38.33
+Pinhal de São Bento,99/00,Sudoeste,300,750.0,41.67
+Wenceslau Braz,00/01,Norte,410,984.0,40.0
+Wenceslau Braz,01/02,Norte,757,2271.0,50.0
+Wenceslau Braz,02/03,Norte,780,2496.0,53.33
+Wenceslau Braz,03/04,Norte,2000,6000.0,50.0
+Wenceslau Braz,04/05,Norte,3043,8079.0,44.25
+Wenceslau Braz,05/06,Norte,2821,9125.94,53.92
+Wenceslau Braz,06/07,Norte,4000,13388.0,55.78
+Wenceslau Braz,07/08,Norte,5000,17355.0,57.85
+Wenceslau Braz,08/09,Norte,5500,17325.0,52.5
+Wenceslau Braz,09/10,Norte,8500,28050.0,55.0
+Wenceslau Braz,10/11,Norte,9000,33300.0,61.67
+Wenceslau Braz,11/12,Norte,9000,33471.0,61.98
+Wenceslau Braz,12/13,Norte,11000,38500.0,58.33
+Wenceslau Braz,13/14,Norte,14500,32349.5,37.18
+Wenceslau Braz,14/15,Norte,14500,50315.0,57.83
+Wenceslau Braz,15/16,Norte,15000,51000.0,56.67
+Wenceslau Braz,16/17,Norte,15500,58900.0,63.33
+Wenceslau Braz,17/18,Norte,18700,71808.0,64.0
+Wenceslau Braz,18/19,Norte,18700,66759.0,59.5
+Wenceslau Braz,19/20,Norte,18200,69160.0,63.33
+Wenceslau Braz,20/21,Norte,18700,72930.0,65.0
+Wenceslau Braz,21/22,Norte,18700,68255.0,60.83
+Wenceslau Braz,22/23,Norte,16500,65670.0,66.33
+Wenceslau Braz,23/24,Norte,16200,39690.0,40.83

@@ -1,0 +1,350 @@
+SAFRA,Município,REGIAO,PRODUCAO
+00/01,Bandeirantes,Norte,43.33
+01/02,Bandeirantes,Norte,31.67
+02/03,Bandeirantes,Norte,43.33
+03/04,Bandeirantes,Norte,43.33
+04/05,Bandeirantes,Norte,31.67
+05/06,Bandeirantes,Norte,37.17
+06/07,Bandeirantes,Norte,45.83
+07/08,Bandeirantes,Norte,47.5
+08/09,Bandeirantes,Norte,33.0
+09/10,Bandeirantes,Norte,49.67
+10/11,Bandeirantes,Norte,58.0
+11/12,Bandeirantes,Norte,37.18
+12/13,Bandeirantes,Norte,54.0
+13/14,Bandeirantes,Norte,24.33
+14/15,Bandeirantes,Norte,44.0
+15/16,Bandeirantes,Norte,46.0
+16/17,Bandeirantes,Norte,58.0
+17/18,Bandeirantes,Norte,52.0
+18/19,Bandeirantes,Norte,45.0
+19/20,Bandeirantes,Norte,55.0
+20/21,Bandeirantes,Norte,57.0
+21/22,Bandeirantes,Norte,48.0
+22/23,Bandeirantes,Norte,59.0
+23/24,Bandeirantes,Norte,31.0
+96/97,Bandeirantes,Norte,36.67
+97/98,Bandeirantes,Norte,31.0
+98/99,Bandeirantes,Norte,43.33
+99/00,Bandeirantes,Norte,28.92
+00/01,Campina do Simão,Sul,48.33
+01/02,Campina do Simão,Sul,42.5
+02/03,Campina do Simão,Sul,46.67
+03/04,Campina do Simão,Sul,43.33
+04/05,Campina do Simão,Sul,33.33
+05/06,Campina do Simão,Sul,41.67
+06/07,Campina do Simão,Sul,45.83
+07/08,Campina do Simão,Sul,44.17
+08/09,Campina do Simão,Sul,41.67
+09/10,Campina do Simão,Sul,46.66
+10/11,Campina do Simão,Sul,52.47
+11/12,Campina do Simão,Sul,43.33
+12/13,Campina do Simão,Sul,50.83
+13/14,Campina do Simão,Sul,52.5
+14/15,Campina do Simão,Sul,51.67
+15/16,Campina do Simão,Sul,54.17
+16/17,Campina do Simão,Sul,63.0
+17/18,Campina do Simão,Sul,57.17
+18/19,Campina do Simão,Sul,56.0
+19/20,Campina do Simão,Sul,64.8
+20/21,Campina do Simão,Sul,58.17
+21/22,Campina do Simão,Sul,56.04
+22/23,Campina do Simão,Sul,68.13
+23/24,Campina do Simão,Sul,64.87
+96/97,Campina do Simão,Sul,41.67
+97/98,Campina do Simão,Sul,45.0
+98/99,Campina do Simão,Sul,42.0
+99/00,Campina do Simão,Sul,39.17
+00/01,Cruzeiro do Sul,Noroeste,58.33
+01/02,Cruzeiro do Sul,Noroeste,57.83
+02/03,Cruzeiro do Sul,Noroeste,57.83
+03/04,Cruzeiro do Sul,Noroeste,25.0
+04/05,Cruzeiro do Sul,Noroeste,48.33
+05/06,Cruzeiro do Sul,Noroeste,33.33
+06/07,Cruzeiro do Sul,Noroeste,50.0
+07/08,Cruzeiro do Sul,Noroeste,36.67
+08/09,Cruzeiro do Sul,Noroeste,35.83
+09/10,Cruzeiro do Sul,Noroeste,53.53
+10/11,Cruzeiro do Sul,Noroeste,55.0
+11/12,Cruzeiro do Sul,Noroeste,25.13
+12/13,Cruzeiro do Sul,Noroeste,62.33
+13/14,Cruzeiro do Sul,Noroeste,40.13
+14/15,Cruzeiro do Sul,Noroeste,55.83
+15/16,Cruzeiro do Sul,Noroeste,45.83
+16/17,Cruzeiro do Sul,Noroeste,58.33
+17/18,Cruzeiro do Sul,Noroeste,51.67
+18/19,Cruzeiro do Sul,Noroeste,28.92
+19/20,Cruzeiro do Sul,Noroeste,50.0
+20/21,Cruzeiro do Sul,Noroeste,50.0
+21/22,Cruzeiro do Sul,Noroeste,33.05
+22/23,Cruzeiro do Sul,Noroeste,60.0
+23/24,Cruzeiro do Sul,Noroeste,39.25
+96/97,Cruzeiro do Sul,Noroeste,41.67
+97/98,Cruzeiro do Sul,Noroeste,43.33
+98/99,Cruzeiro do Sul,Noroeste,48.33
+99/00,Cruzeiro do Sul,Noroeste,40.0
+03/04,Diamante do Norte,Noroeste,10.86
+04/05,Diamante do Norte,Noroeste,3.0
+05/06,Diamante do Norte,Noroeste,25.0
+12/13,Diamante do Norte,Noroeste,39.17
+13/14,Diamante do Norte,Noroeste,26.03
+14/15,Diamante do Norte,Noroeste,45.0
+15/16,Diamante do Norte,Noroeste,53.33
+16/17,Diamante do Norte,Noroeste,53.33
+17/18,Diamante do Norte,Noroeste,53.33
+18/19,Diamante do Norte,Noroeste,31.67
+19/20,Diamante do Norte,Noroeste,43.33
+20/21,Diamante do Norte,Noroeste,50.0
+21/22,Diamante do Norte,Noroeste,30.0
+22/23,Diamante do Norte,Noroeste,68.33
+23/24,Diamante do Norte,Noroeste,30.0
+98/99,Diamante do Norte,Noroeste,50.0
+99/00,Diamante do Norte,Noroeste,33.33
+00/01,Diamante do Sul,Sul,56.67
+01/02,Diamante do Sul,Sul,33.33
+02/03,Diamante do Sul,Sul,50.0
+03/04,Diamante do Sul,Sul,38.33
+04/05,Diamante do Sul,Sul,33.33
+05/06,Diamante do Sul,Sul,50.0
+06/07,Diamante do Sul,Sul,50.83
+07/08,Diamante do Sul,Sul,52.99
+08/09,Diamante do Sul,Sul,30.64
+09/10,Diamante do Sul,Sul,47.19
+10/11,Diamante do Sul,Sul,51.12
+11/12,Diamante do Sul,Sul,29.0
+12/13,Diamante do Sul,Sul,51.67
+13/14,Diamante do Sul,Sul,49.67
+14/15,Diamante do Sul,Sul,52.5
+15/16,Diamante do Sul,Sul,48.33
+16/17,Diamante do Sul,Sul,60.0
+17/18,Diamante do Sul,Sul,51.67
+18/19,Diamante do Sul,Sul,49.67
+19/20,Diamante do Sul,Sul,62.0
+20/21,Diamante do Sul,Sul,51.67
+21/22,Diamante do Sul,Sul,22.67
+22/23,Diamante do Sul,Sul,68.07
+23/24,Diamante do Sul,Sul,51.63
+96/97,Diamante do Sul,Sul,50.0
+97/98,Diamante do Sul,Sul,50.0
+98/99,Diamante do Sul,Sul,51.67
+99/00,Diamante do Sul,Sul,51.67
+00/01,Francisco Alves,Noroeste,57.51
+01/02,Francisco Alves,Noroeste,55.83
+02/03,Francisco Alves,Noroeste,50.0
+03/04,Francisco Alves,Noroeste,33.33
+04/05,Francisco Alves,Noroeste,50.0
+05/06,Francisco Alves,Noroeste,24.9
+06/07,Francisco Alves,Noroeste,48.63
+07/08,Francisco Alves,Noroeste,41.65
+08/09,Francisco Alves,Noroeste,19.9
+09/10,Francisco Alves,Noroeste,53.06
+10/11,Francisco Alves,Noroeste,53.3
+11/12,Francisco Alves,Noroeste,22.59
+12/13,Francisco Alves,Noroeste,47.07
+13/14,Francisco Alves,Noroeste,39.95
+14/15,Francisco Alves,Noroeste,51.1
+15/16,Francisco Alves,Noroeste,59.84
+16/17,Francisco Alves,Noroeste,56.67
+17/18,Francisco Alves,Noroeste,60.0
+18/19,Francisco Alves,Noroeste,28.33
+19/20,Francisco Alves,Noroeste,58.33
+20/21,Francisco Alves,Noroeste,55.0
+21/22,Francisco Alves,Noroeste,8.0
+22/23,Francisco Alves,Noroeste,30.0
+23/24,Francisco Alves,Noroeste,33.33
+96/97,Francisco Alves,Noroeste,32.58
+97/98,Francisco Alves,Noroeste,33.01
+98/99,Francisco Alves,Noroeste,47.5
+99/00,Francisco Alves,Noroeste,36.67
+00/01,Imbaú,Sul,48.33
+01/02,Imbaú,Sul,48.33
+02/03,Imbaú,Sul,50.0
+03/04,Imbaú,Sul,46.67
+04/05,Imbaú,Sul,35.0
+05/06,Imbaú,Sul,48.33
+06/07,Imbaú,Sul,50.0
+07/08,Imbaú,Sul,45.0
+08/09,Imbaú,Sul,45.5
+09/10,Imbaú,Sul,50.0
+10/11,Imbaú,Sul,53.33
+11/12,Imbaú,Sul,50.0
+12/13,Imbaú,Sul,58.33
+13/14,Imbaú,Sul,42.95
+14/15,Imbaú,Sul,56.14
+15/16,Imbaú,Sul,54.03
+16/17,Imbaú,Sul,63.33
+17/18,Imbaú,Sul,61.67
+18/19,Imbaú,Sul,51.67
+19/20,Imbaú,Sul,62.79
+20/21,Imbaú,Sul,61.26
+21/22,Imbaú,Sul,59.48
+22/23,Imbaú,Sul,61.32
+23/24,Imbaú,Sul,58.07
+96/97,Imbaú,Sul,41.67
+97/98,Imbaú,Sul,41.67
+98/99,Imbaú,Sul,41.67
+99/00,Imbaú,Sul,46.67
+00/01,Lindoeste,Oeste,48.33
+01/02,Lindoeste,Oeste,47.5
+02/03,Lindoeste,Oeste,46.67
+03/04,Lindoeste,Oeste,48.0
+04/05,Lindoeste,Oeste,37.96
+05/06,Lindoeste,Oeste,30.0
+06/07,Lindoeste,Oeste,58.33
+07/08,Lindoeste,Oeste,53.61
+08/09,Lindoeste,Oeste,46.67
+09/10,Lindoeste,Oeste,52.89
+10/11,Lindoeste,Oeste,53.33
+11/12,Lindoeste,Oeste,33.33
+12/13,Lindoeste,Oeste,55.78
+13/14,Lindoeste,Oeste,58.33
+14/15,Lindoeste,Oeste,53.97
+15/16,Lindoeste,Oeste,57.8
+16/17,Lindoeste,Oeste,57.5
+17/18,Lindoeste,Oeste,61.98
+18/19,Lindoeste,Oeste,48.33
+19/20,Lindoeste,Oeste,68.0
+20/21,Lindoeste,Oeste,63.33
+21/22,Lindoeste,Oeste,18.67
+22/23,Lindoeste,Oeste,75.0
+23/24,Lindoeste,Oeste,57.85
+96/97,Lindoeste,Oeste,43.95
+97/98,Lindoeste,Oeste,41.67
+98/99,Lindoeste,Oeste,41.67
+99/00,Lindoeste,Oeste,41.67
+00/01,Mato Rico,Sul,47.52
+01/02,Mato Rico,Sul,48.33
+02/03,Mato Rico,Sul,53.33
+03/04,Mato Rico,Sul,46.67
+04/05,Mato Rico,Sul,35.83
+05/06,Mato Rico,Sul,41.67
+06/07,Mato Rico,Sul,48.33
+07/08,Mato Rico,Sul,50.0
+08/09,Mato Rico,Sul,48.33
+09/10,Mato Rico,Sul,51.67
+10/11,Mato Rico,Sul,54.17
+11/12,Mato Rico,Sul,50.0
+12/13,Mato Rico,Sul,41.67
+13/14,Mato Rico,Sul,50.0
+14/15,Mato Rico,Sul,50.0
+15/16,Mato Rico,Sul,39.17
+16/17,Mato Rico,Sul,62.5
+17/18,Mato Rico,Sul,63.33
+18/19,Mato Rico,Norte,55.83
+19/20,Mato Rico,Sul,61.67
+20/21,Mato Rico,Sul,57.83
+21/22,Mato Rico,Norte,36.67
+22/23,Mato Rico,Sul,58.33
+23/24,Mato Rico,Sul,55.83
+96/97,Mato Rico,Sul,36.67
+97/98,Mato Rico,Sul,36.67
+98/99,Mato Rico,Sul,36.67
+99/00,Mato Rico,Sul,41.33
+00/01,Moreira Sales,Centro-oeste,47.52
+01/02,Moreira Sales,Centro-oeste,49.58
+02/03,Moreira Sales,Centro-oeste,45.45
+03/04,Moreira Sales,Centro-oeste,39.25
+04/05,Moreira Sales,Centro-oeste,35.0
+05/06,Moreira Sales,Centro-oeste,41.33
+06/07,Moreira Sales,Centro-oeste,50.0
+07/08,Moreira Sales,Centro-oeste,44.67
+08/09,Moreira Sales,Centro-oeste,40.42
+09/10,Moreira Sales,Centro-oeste,52.87
+10/11,Moreira Sales,Centro-oeste,54.53
+11/12,Moreira Sales,Centro-oeste,39.25
+12/13,Moreira Sales,Centro-oeste,53.19
+13/14,Moreira Sales,Centro-oeste,55.52
+14/15,Moreira Sales,Centro-oeste,51.21
+15/16,Moreira Sales,Centro-oeste,47.27
+16/17,Moreira Sales,Centro-oeste,57.85
+17/18,Moreira Sales,Centro-oeste,55.0
+18/19,Moreira Sales,Centro-oeste,43.38
+19/20,Moreira Sales,Centro-oeste,51.67
+20/21,Moreira Sales,Centro-oeste,51.67
+21/22,Moreira Sales,Centro-oeste,15.83
+22/23,Moreira Sales,Centro-oeste,68.17
+23/24,Moreira Sales,Centro-oeste,35.83
+96/97,Moreira Sales,Centro-oeste,40.0
+97/98,Moreira Sales,Centro-oeste,38.33
+98/99,Moreira Sales,Centro-oeste,41.67
+99/00,Moreira Sales,Centro-oeste,41.33
+00/01,Nova Esperança do Sudoeste,Sudoeste,53.33
+01/02,Nova Esperança do Sudoeste,Sudoeste,41.67
+02/03,Nova Esperança do Sudoeste,Sudoeste,50.0
+03/04,Nova Esperança do Sudoeste,Sudoeste,33.33
+04/05,Nova Esperança do Sudoeste,Sudoeste,18.67
+05/06,Nova Esperança do Sudoeste,Sudoeste,30.11
+06/07,Nova Esperança do Sudoeste,Sudoeste,49.14
+07/08,Nova Esperança do Sudoeste,Sudoeste,46.67
+08/09,Nova Esperança do Sudoeste,Sudoeste,41.67
+09/10,Nova Esperança do Sudoeste,Sudoeste,48.55
+10/11,Nova Esperança do Sudoeste,Sudoeste,58.33
+11/12,Nova Esperança do Sudoeste,Sudoeste,33.33
+12/13,Nova Esperança do Sudoeste,Sudoeste,50.89
+13/14,Nova Esperança do Sudoeste,Sudoeste,46.24
+14/15,Nova Esperança do Sudoeste,Sudoeste,53.24
+15/16,Nova Esperança do Sudoeste,Sudoeste,54.51
+16/17,Nova Esperança do Sudoeste,Sudoeste,65.0
+17/18,Nova Esperança do Sudoeste,Sudoeste,60.0
+18/19,Nova Esperança do Sudoeste,Sudoeste,48.33
+19/20,Nova Esperança do Sudoeste,Sudoeste,70.0
+20/21,Nova Esperança do Sudoeste,Sudoeste,66.67
+21/22,Nova Esperança do Sudoeste,Sudoeste,15.0
+22/23,Nova Esperança do Sudoeste,Sudoeste,66.67
+23/24,Nova Esperança do Sudoeste,Sudoeste,53.33
+96/97,Nova Esperança do Sudoeste,Sudoeste,41.67
+97/98,Nova Esperança do Sudoeste,Sudoeste,36.67
+98/99,Nova Esperança do Sudoeste,Sudoeste,38.33
+99/00,Nova Esperança do Sudoeste,Sudoeste,38.33
+00/01,Pinhal de São Bento,Sudoeste,53.33
+01/02,Pinhal de São Bento,Sudoeste,43.33
+02/03,Pinhal de São Bento,Sudoeste,48.33
+03/04,Pinhal de São Bento,Sudoeste,33.33
+04/05,Pinhal de São Bento,Sudoeste,19.17
+05/06,Pinhal de São Bento,Sudoeste,35.5
+06/07,Pinhal de São Bento,Sudoeste,50.0
+07/08,Pinhal de São Bento,Sudoeste,46.67
+08/09,Pinhal de São Bento,Sudoeste,30.0
+09/10,Pinhal de São Bento,Sudoeste,53.8
+10/11,Pinhal de São Bento,Sudoeste,56.67
+11/12,Pinhal de São Bento,Sudoeste,31.67
+12/13,Pinhal de São Bento,Sudoeste,50.19
+13/14,Pinhal de São Bento,Sudoeste,48.21
+14/15,Pinhal de São Bento,Sudoeste,58.33
+15/16,Pinhal de São Bento,Sudoeste,57.5
+16/17,Pinhal de São Bento,Sudoeste,65.0
+17/18,Pinhal de São Bento,Sudoeste,60.0
+18/19,Pinhal de São Bento,Sudoeste,55.0
+19/20,Pinhal de São Bento,Sudoeste,65.0
+20/21,Pinhal de São Bento,Sudoeste,61.67
+21/22,Pinhal de São Bento,Sudoeste,20.09
+22/23,Pinhal de São Bento,Sudoeste,64.25
+23/24,Pinhal de São Bento,Sudoeste,61.67
+96/97,Pinhal de São Bento,Sudoeste,38.33
+97/98,Pinhal de São Bento,Sudoeste,35.0
+98/99,Pinhal de São Bento,Sudoeste,38.33
+99/00,Pinhal de São Bento,Sudoeste,41.67
+00/01,Wenceslau Braz,Norte,40.0
+01/02,Wenceslau Braz,Norte,50.0
+02/03,Wenceslau Braz,Norte,53.33
+03/04,Wenceslau Braz,Norte,50.0
+04/05,Wenceslau Braz,Norte,44.25
+05/06,Wenceslau Braz,Norte,53.92
+06/07,Wenceslau Braz,Norte,55.78
+07/08,Wenceslau Braz,Norte,57.85
+08/09,Wenceslau Braz,Norte,52.5
+09/10,Wenceslau Braz,Norte,55.0
+10/11,Wenceslau Braz,Norte,61.67
+11/12,Wenceslau Braz,Norte,61.98
+12/13,Wenceslau Braz,Norte,58.33
+13/14,Wenceslau Braz,Norte,37.18
+14/15,Wenceslau Braz,Norte,57.83
+15/16,Wenceslau Braz,Norte,56.67
+16/17,Wenceslau Braz,Norte,63.33
+17/18,Wenceslau Braz,Norte,64.0
+18/19,Wenceslau Braz,Norte,59.5
+19/20,Wenceslau Braz,Norte,63.33
+20/21,Wenceslau Braz,Norte,65.0
+21/22,Wenceslau Braz,Norte,60.83
+22/23,Wenceslau Braz,Norte,66.33
+23/24,Wenceslau Braz,Norte,40.83

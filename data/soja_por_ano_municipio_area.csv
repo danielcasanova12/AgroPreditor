@@ -1,0 +1,350 @@
+SAFRA,Município,REGIAO,AREA TOTAL,PRODUCAO
+00/01,Bandeirantes,Norte,7500,19500
+01/02,Bandeirantes,Norte,9000,17100
+02/03,Bandeirantes,Norte,9900,25740
+03/04,Bandeirantes,Norte,12000,31200
+04/05,Bandeirantes,Norte,15500,29450
+05/06,Bandeirantes,Norte,16300,36349
+06/07,Bandeirantes,Norte,14350,"39462,5"
+07/08,Bandeirantes,Norte,13400,38190
+08/09,Bandeirantes,Norte,13550,26829
+09/10,Bandeirantes,Norte,13700,40826
+10/11,Bandeirantes,Norte,14140,"49207,2"
+11/12,Bandeirantes,Norte,14500,"32349,5"
+12/13,Bandeirantes,Norte,15500,50220
+13/14,Bandeirantes,Norte,16190,"23637,4"
+14/15,Bandeirantes,Norte,17480,"46147,2"
+15/16,Bandeirantes,Norte,18160,"50121,6"
+16/17,Bandeirantes,Norte,18200,63336
+17/18,Bandeirantes,Norte,18240,"56908,8"
+18/19,Bandeirantes,Norte,18250,49275
+19/20,Bandeirantes,Norte,18250,60225
+20/21,Bandeirantes,Norte,18320,"62654,4"
+21/22,Bandeirantes,Norte,18250,52560
+22/23,Bandeirantes,Norte,18800,66552
+23/24,Bandeirantes,Norte,18400,34224
+96/97,Bandeirantes,Norte,6000,13200
+97/98,Bandeirantes,Norte,7100,13206
+98/99,Bandeirantes,Norte,6000,15600
+99/00,Bandeirantes,Norte,7500,13013
+00/01,Campina do Simão,Sul,3400,9860
+01/02,Campina do Simão,Sul,4300,10965
+02/03,Campina do Simão,Sul,4900,13720
+03/04,Campina do Simão,Sul,5600,14560
+04/05,Campina do Simão,Sul,6100,12200
+05/06,Campina do Simão,Sul,5900,14750
+06/07,Campina do Simão,Sul,6400,17600
+07/08,Campina do Simão,Sul,5800,15370
+08/09,Campina do Simão,Sul,5950,14875
+09/10,Campina do Simão,Sul,6620,18535
+10/11,Campina do Simão,Sul,6810,21440
+11/12,Campina do Simão,Sul,6100,15860
+12/13,Campina do Simão,Sul,6300,19215
+13/14,Campina do Simão,Sul,7900,24885
+14/15,Campina do Simão,Sul,8400,26040
+15/16,Campina do Simão,Sul,8600,27950
+16/17,Campina do Simão,Sul,9700,36666
+17/18,Campina do Simão,Sul,10100,34643
+18/19,Campina do Simão,Sul,10550,35448
+19/20,Campina do Simão,Sul,10820,42065
+20/21,Campina do Simão,Sul,10920,38115
+21/22,Campina do Simão,Sul,11280,37928
+22/23,Campina do Simão,Sul,11720,47912
+23/24,Campina do Simão,Sul,12160,47328
+96/97,Campina do Simão,Sul,3700,9250
+97/98,Campina do Simão,Sul,3900,10530
+98/99,Campina do Simão,Sul,3500,8820
+99/00,Campina do Simão,Sul,3300,7755
+00/01,Cruzeiro do Sul,Noroeste,600,2100
+01/02,Cruzeiro do Sul,Noroeste,1600,5552
+02/03,Cruzeiro do Sul,Noroeste,2122,"7363,34"
+03/04,Cruzeiro do Sul,Noroeste,2240,3360
+04/05,Cruzeiro do Sul,Noroeste,2200,6380
+05/06,Cruzeiro do Sul,Noroeste,2132,4264
+06/07,Cruzeiro do Sul,Noroeste,2000,6000
+07/08,Cruzeiro do Sul,Noroeste,1920,4224
+08/09,Cruzeiro do Sul,Noroeste,1920,4128
+09/10,Cruzeiro do Sul,Noroeste,1843,"5919,72"
+10/11,Cruzeiro do Sul,Noroeste,1939,"6398,7"
+11/12,Cruzeiro do Sul,Noroeste,1939,2924
+12/13,Cruzeiro do Sul,Noroeste,2100,7854
+13/14,Cruzeiro do Sul,Noroeste,2200,"5297,6"
+14/15,Cruzeiro do Sul,Noroeste,2400,8040
+15/16,Cruzeiro do Sul,Noroeste,1950,"5362,5"
+16/17,Cruzeiro do Sul,Noroeste,2000,7000
+17/18,Cruzeiro do Sul,Noroeste,2500,7750
+18/19,Cruzeiro do Sul,Noroeste,3700,"6419,5"
+19/20,Cruzeiro do Sul,Noroeste,4300,12900
+20/21,Cruzeiro do Sul,Noroeste,4500,13500
+21/22,Cruzeiro do Sul,Noroeste,4244,"8415,85"
+22/23,Cruzeiro do Sul,Noroeste,5404,"19454,4"
+23/24,Cruzeiro do Sul,Noroeste,5938,"13983,99"
+96/97,Cruzeiro do Sul,Noroeste,470,1175
+97/98,Cruzeiro do Sul,Noroeste,350,910
+98/99,Cruzeiro do Sul,Noroeste,350,1015
+99/00,Cruzeiro do Sul,Noroeste,550,1320
+03/04,Diamante do Norte,Noroeste,290,189
+04/05,Diamante do Norte,Noroeste,270,"48,6"
+05/06,Diamante do Norte,Noroeste,270,405
+12/13,Diamante do Norte,Noroeste,116,"272,6"
+13/14,Diamante do Norte,Noroeste,210,328
+14/15,Diamante do Norte,Noroeste,350,945
+15/16,Diamante do Norte,Noroeste,430,1376
+16/17,Diamante do Norte,Noroeste,714,"2284,8"
+17/18,Diamante do Norte,Noroeste,1524,"4876,8"
+18/19,Diamante do Norte,Noroeste,1887,"3585,3"
+19/20,Diamante do Norte,Noroeste,3783,"9835,8"
+20/21,Diamante do Norte,Noroeste,3400,10200
+21/22,Diamante do Norte,Noroeste,3400,6120
+22/23,Diamante do Norte,Noroeste,3400,13940
+23/24,Diamante do Norte,Noroeste,3400,6120
+98/99,Diamante do Norte,Noroeste,135,405
+99/00,Diamante do Norte,Noroeste,90,180
+00/01,Diamante do Sul,Sul,100,340
+01/02,Diamante do Sul,Sul,180,360
+02/03,Diamante do Sul,Sul,350,1050
+03/04,Diamante do Sul,Sul,500,1150
+04/05,Diamante do Sul,Sul,800,1600
+05/06,Diamante do Sul,Sul,2550,7650
+06/07,Diamante do Sul,Sul,800,2440
+07/08,Diamante do Sul,Sul,980,3116
+08/09,Diamante do Sul,Sul,1300,2390
+09/10,Diamante do Sul,Sul,1910,"5407,8"
+10/11,Diamante do Sul,Sul,1330,"4079,5"
+11/12,Diamante do Sul,Sul,1100,1914
+12/13,Diamante do Sul,Sul,1050,3255
+13/14,Diamante do Sul,Sul,1270,"3784,6"
+14/15,Diamante do Sul,Sul,2000,6300
+15/16,Diamante do Sul,Sul,1700,4930
+16/17,Diamante do Sul,Sul,1600,5760
+17/18,Diamante do Sul,Sul,1700,5270
+18/19,Diamante do Sul,Sul,1600,4768
+19/20,Diamante do Sul,Sul,1900,7068
+20/21,Diamante do Sul,Sul,2000,6200
+21/22,Diamante do Sul,Sul,2600,3536
+22/23,Diamante do Sul,Sul,2705,"11048,5"
+23/24,Diamante do Sul,Sul,3005,"9308,05"
+96/97,Diamante do Sul,Sul,50,150
+97/98,Diamante do Sul,Sul,70,210
+98/99,Diamante do Sul,Sul,96,"297,6"
+99/00,Diamante do Sul,Sul,96,"297,6"
+00/01,Francisco Alves,Noroeste,3910,"13492,5"
+01/02,Francisco Alves,Noroeste,5000,16750
+02/03,Francisco Alves,Noroeste,9000,27000
+03/04,Francisco Alves,Noroeste,15000,30000
+04/05,Francisco Alves,Noroeste,16000,48000
+05/06,Francisco Alves,Noroeste,15300,22860
+06/07,Francisco Alves,Noroeste,14077,41077
+07/08,Francisco Alves,Noroeste,13507,33757
+08/09,Francisco Alves,Noroeste,13890,"16586,4"
+09/10,Francisco Alves,Noroeste,13820,43994
+10/11,Francisco Alves,Noroeste,13730,43909
+11/12,Francisco Alves,Noroeste,14350,19447
+12/13,Francisco Alves,Noroeste,15485,43729
+13/14,Francisco Alves,Noroeste,16250,38950
+14/15,Francisco Alves,Noroeste,16860,51690
+15/16,Francisco Alves,Noroeste,17080,61320
+16/17,Francisco Alves,Noroeste,17250,58650
+17/18,Francisco Alves,Noroeste,18400,66240
+18/19,Francisco Alves,Noroeste,18600,31620
+19/20,Francisco Alves,Noroeste,19000,66500
+20/21,Francisco Alves,Noroeste,19000,62700
+21/22,Francisco Alves,Noroeste,19000,9120
+22/23,Francisco Alves,Noroeste,19750,35550
+23/24,Francisco Alves,Noroeste,19080,38160
+96/97,Francisco Alves,Noroeste,2100,4105
+97/98,Francisco Alves,Noroeste,3100,6140
+98/99,Francisco Alves,Noroeste,3500,9975
+99/00,Francisco Alves,Noroeste,4000,8800
+00/01,Imbaú,Sul,1100,3190
+01/02,Imbaú,Sul,1300,3770
+02/03,Imbaú,Sul,1500,4500
+03/04,Imbaú,Sul,1500,4200
+04/05,Imbaú,Sul,1750,3675
+05/06,Imbaú,Sul,1300,3770
+06/07,Imbaú,Sul,2000,6000
+07/08,Imbaú,Sul,1800,4860
+08/09,Imbaú,Sul,1800,4914
+09/10,Imbaú,Sul,2000,6000
+10/11,Imbaú,Sul,2350,7520
+11/12,Imbaú,Sul,2300,6900
+12/13,Imbaú,Sul,2450,8575
+13/14,Imbaú,Sul,2080,5360
+14/15,Imbaú,Sul,2220,7478
+15/16,Imbaú,Sul,2225,"7212,5"
+16/17,Imbaú,Sul,2055,7809
+17/18,Imbaú,Sul,2270,8399
+18/19,Imbaú,Sul,3280,10168
+19/20,Imbaú,Sul,3050,11490
+20/21,Imbaú,Sul,3050,11210
+21/22,Imbaú,Sul,2750,9815
+22/23,Imbaú,Sul,2850,10485
+23/24,Imbaú,Sul,2850,9930
+96/97,Imbaú,Sul,280,700
+97/98,Imbaú,Sul,1000,2500
+98/99,Imbaú,Sul,1200,3000
+99/00,Imbaú,Sul,1300,3640
+00/01,Lindoeste,Oeste,2000,5800
+01/02,Lindoeste,Oeste,3000,8550
+02/03,Lindoeste,Oeste,3000,8400
+03/04,Lindoeste,Oeste,2000,5760
+04/05,Lindoeste,Oeste,3410,7767
+05/06,Lindoeste,Oeste,3650,6570
+06/07,Lindoeste,Oeste,5800,20300
+07/08,Lindoeste,Oeste,5825,"18736,78"
+08/09,Lindoeste,Oeste,5800,16240
+09/10,Lindoeste,Oeste,6400,20310
+10/11,Lindoeste,Oeste,6300,20160
+11/12,Lindoeste,Oeste,6260,12520
+12/13,Lindoeste,Oeste,6300,"21086,1"
+13/14,Lindoeste,Oeste,12550,43925
+14/15,Lindoeste,Oeste,13012,"42138,65"
+15/16,Lindoeste,Oeste,13260,"45987,26"
+16/17,Lindoeste,Oeste,12920,44574
+17/18,Lindoeste,Oeste,13070,"48607,3"
+18/19,Lindoeste,Oeste,9000,26100
+19/20,Lindoeste,Oeste,8020,"32721,6"
+20/21,Lindoeste,Oeste,10500,39900
+21/22,Lindoeste,Oeste,10815,"12112,8"
+22/23,Lindoeste,Oeste,11605,"52222,5"
+23/24,Lindoeste,Oeste,11450,"39742,95"
+96/97,Lindoeste,Oeste,950,"2505,4"
+97/98,Lindoeste,Oeste,2400,6000
+98/99,Lindoeste,Oeste,2900,7250
+99/00,Lindoeste,Oeste,3150,7875
+00/01,Mato Rico,Sul,2515,"7170,27"
+01/02,Mato Rico,Sul,3000,8700
+02/03,Mato Rico,Sul,3500,11200
+03/04,Mato Rico,Sul,3500,9800
+04/05,Mato Rico,Sul,4630,"9954,5"
+05/06,Mato Rico,Sul,3400,8500
+06/07,Mato Rico,Sul,4000,11600
+07/08,Mato Rico,Sul,4200,12600
+08/09,Mato Rico,Sul,4400,12760
+09/10,Mato Rico,Sul,5250,16275
+10/11,Mato Rico,Sul,5250,"17062,5"
+11/12,Mato Rico,Sul,5500,16500
+12/13,Mato Rico,Sul,9000,22500
+13/14,Mato Rico,Sul,10400,31200
+14/15,Mato Rico,Sul,10600,31800
+15/16,Mato Rico,Sul,9200,21620
+16/17,Mato Rico,Sul,9200,34500
+17/18,Mato Rico,Sul,9200,34960
+18/19,Mato Rico,Norte,9500,31825
+19/20,Mato Rico,Sul,9600,35520
+20/21,Mato Rico,Sul,10300,35741
+21/22,Mato Rico,Norte,13000,28600
+22/23,Mato Rico,Sul,13800,48300
+23/24,Mato Rico,Sul,13900,46565
+96/97,Mato Rico,Sul,1000,2200
+97/98,Mato Rico,Sul,1500,3300
+98/99,Mato Rico,Sul,1500,3300
+99/00,Mato Rico,Sul,1500,3720
+00/01,Moreira Sales,Centro-oeste,3000,8553
+01/02,Moreira Sales,Centro-oeste,6300,"18742,5"
+02/03,Moreira Sales,Centro-oeste,10250,"27951,75"
+03/04,Moreira Sales,Centro-oeste,14000,32970
+04/05,Moreira Sales,Centro-oeste,15500,32550
+05/06,Moreira Sales,Centro-oeste,15000,37200
+06/07,Moreira Sales,Centro-oeste,14000,42000
+07/08,Moreira Sales,Centro-oeste,14000,37520
+08/09,Moreira Sales,Centro-oeste,15300,"37109,5"
+09/10,Moreira Sales,Centro-oeste,12300,39021
+10/11,Moreira Sales,Centro-oeste,12000,39264
+11/12,Moreira Sales,Centro-oeste,13000,30615
+12/13,Moreira Sales,Centro-oeste,13116,"41858,8"
+13/14,Moreira Sales,Centro-oeste,13100,43636
+14/15,Moreira Sales,Centro-oeste,13200,40560
+15/16,Moreira Sales,Centro-oeste,13500,"38288,3"
+16/17,Moreira Sales,Centro-oeste,13000,45123
+17/18,Moreira Sales,Centro-oeste,12200,40260
+18/19,Moreira Sales,Centro-oeste,13000,33839
+19/20,Moreira Sales,Centro-oeste,13100,40610
+20/21,Moreira Sales,Centro-oeste,13100,40610
+21/22,Moreira Sales,Centro-oeste,14000,13300
+22/23,Moreira Sales,Centro-oeste,14000,57260
+23/24,Moreira Sales,Centro-oeste,14000,30100
+96/97,Moreira Sales,Centro-oeste,1650,3960
+97/98,Moreira Sales,Centro-oeste,2000,4600
+98/99,Moreira Sales,Centro-oeste,2600,6500
+99/00,Moreira Sales,Centro-oeste,2200,5456
+00/01,Nova Esperança do Sudoeste,Sudoeste,350,1120
+01/02,Nova Esperança do Sudoeste,Sudoeste,1000,2500
+02/03,Nova Esperança do Sudoeste,Sudoeste,1000,3000
+03/04,Nova Esperança do Sudoeste,Sudoeste,2000,4000
+04/05,Nova Esperança do Sudoeste,Sudoeste,2300,2576
+05/06,Nova Esperança do Sudoeste,Sudoeste,1550,2800
+06/07,Nova Esperança do Sudoeste,Sudoeste,1450,4275
+07/08,Nova Esperança do Sudoeste,Sudoeste,1400,3920
+08/09,Nova Esperança do Sudoeste,Sudoeste,1500,3750
+09/10,Nova Esperança do Sudoeste,Sudoeste,2300,6700
+10/11,Nova Esperança do Sudoeste,Sudoeste,2100,7350
+11/12,Nova Esperança do Sudoeste,Sudoeste,2000,4000
+12/13,Nova Esperança do Sudoeste,Sudoeste,2050,6260
+13/14,Nova Esperança do Sudoeste,Sudoeste,2150,5965
+14/15,Nova Esperança do Sudoeste,Sudoeste,2420,7730
+15/16,Nova Esperança do Sudoeste,Sudoeste,2550,8340
+16/17,Nova Esperança do Sudoeste,Sudoeste,2300,8970
+17/18,Nova Esperança do Sudoeste,Sudoeste,1500,5400
+18/19,Nova Esperança do Sudoeste,Sudoeste,1700,4930
+19/20,Nova Esperança do Sudoeste,Sudoeste,1800,7560
+20/21,Nova Esperança do Sudoeste,Sudoeste,1950,7800
+21/22,Nova Esperança do Sudoeste,Sudoeste,2450,2205
+22/23,Nova Esperança do Sudoeste,Sudoeste,2900,11600
+23/24,Nova Esperança do Sudoeste,Sudoeste,2900,9280
+96/97,Nova Esperança do Sudoeste,Sudoeste,100,250
+97/98,Nova Esperança do Sudoeste,Sudoeste,150,330
+98/99,Nova Esperança do Sudoeste,Sudoeste,150,345
+99/00,Nova Esperança do Sudoeste,Sudoeste,150,345
+00/01,Pinhal de São Bento,Sudoeste,300,960
+01/02,Pinhal de São Bento,Sudoeste,400,1040
+02/03,Pinhal de São Bento,Sudoeste,600,1740
+03/04,Pinhal de São Bento,Sudoeste,800,1600
+04/05,Pinhal de São Bento,Sudoeste,1160,1334
+05/06,Pinhal de São Bento,Sudoeste,800,1704
+06/07,Pinhal de São Bento,Sudoeste,800,2400
+07/08,Pinhal de São Bento,Sudoeste,600,1680
+08/09,Pinhal de São Bento,Sudoeste,660,1188
+09/10,Pinhal de São Bento,Sudoeste,900,2905
+10/11,Pinhal de São Bento,Sudoeste,900,3060
+11/12,Pinhal de São Bento,Sudoeste,800,1520
+12/13,Pinhal de São Bento,Sudoeste,900,2710
+13/14,Pinhal de São Bento,Sudoeste,1300,3760
+14/15,Pinhal de São Bento,Sudoeste,1200,4200
+15/16,Pinhal de São Bento,Sudoeste,1900,6555
+16/17,Pinhal de São Bento,Sudoeste,1800,7020
+17/18,Pinhal de São Bento,Sudoeste,1800,6480
+18/19,Pinhal de São Bento,Sudoeste,1800,5940
+19/20,Pinhal de São Bento,Sudoeste,1900,7410
+20/21,Pinhal de São Bento,Sudoeste,2100,7770
+21/22,Pinhal de São Bento,Sudoeste,2320,2796
+22/23,Pinhal de São Bento,Sudoeste,2450,9445
+23/24,Pinhal de São Bento,Sudoeste,2450,9065
+96/97,Pinhal de São Bento,Sudoeste,220,506
+97/98,Pinhal de São Bento,Sudoeste,300,630
+98/99,Pinhal de São Bento,Sudoeste,300,690
+99/00,Pinhal de São Bento,Sudoeste,300,750
+00/01,Wenceslau Braz,Norte,410,984
+01/02,Wenceslau Braz,Norte,757,2271
+02/03,Wenceslau Braz,Norte,780,2496
+03/04,Wenceslau Braz,Norte,2000,6000
+04/05,Wenceslau Braz,Norte,3043,8079
+05/06,Wenceslau Braz,Norte,2821,"9125,94"
+06/07,Wenceslau Braz,Norte,4000,13388
+07/08,Wenceslau Braz,Norte,5000,17355
+08/09,Wenceslau Braz,Norte,5500,17325
+09/10,Wenceslau Braz,Norte,8500,28050
+10/11,Wenceslau Braz,Norte,9000,33300
+11/12,Wenceslau Braz,Norte,9000,33471
+12/13,Wenceslau Braz,Norte,11000,38500
+13/14,Wenceslau Braz,Norte,14500,"32349,5"
+14/15,Wenceslau Braz,Norte,14500,50315
+15/16,Wenceslau Braz,Norte,15000,51000
+16/17,Wenceslau Braz,Norte,15500,58900
+17/18,Wenceslau Braz,Norte,18700,71808
+18/19,Wenceslau Braz,Norte,18700,66759
+19/20,Wenceslau Braz,Norte,18200,69160
+20/21,Wenceslau Braz,Norte,18700,72930
+21/22,Wenceslau Braz,Norte,18700,68255
+22/23,Wenceslau Braz,Norte,16500,65670
+23/24,Wenceslau Braz,Norte,16200,39690
