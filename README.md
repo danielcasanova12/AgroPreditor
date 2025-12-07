@@ -69,8 +69,8 @@ Siga os passos abaixo para configurar o ambiente e executar o pipeline completo.
 
 1.  **Clone o repositório:**
     ```sh
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>
+    git clone https://github.com/danielcasanova12/AgroPreditor.git
+    cd AgroPreditor
     ```
 
 2.  **Crie um ambiente virtual (recomendado):**
@@ -110,9 +110,9 @@ A execução do pipeline com o modelo híbrido na safra de teste ('23/24') produ
 
 | Granularidade | R² (Coef. de Determinação) | RMSE (sacas/ha) |
 |---------------|------------------------------|-------------------|
-| **Mensal**    | **0.2971**                   | **10.05**         |
-| Anual         | 0.2802                       | 10.17             |
-| Diário        | 0.0175                       | 11.88             |
+| **Mensal**    | **0.8132**                   | **7655.61**       |
+| Anual         | 0.6585                       | 9122.39           |
+| Diário        | 0.6641                       | 9325.73           |
 
 O modelo com **dados mensais** apresentou o melhor desempenho. A matriz de correlação abaixo explora a relação entre as principais variáveis neste dataset.
 
@@ -136,10 +136,3 @@ Uma descrição detalhada de toda a metodologia, incluindo as fontes de dados, o
 
 ---
 
-## 👨‍💻 Autor
-
-**[Seu Nome]**
-
-- **Email:** `seu.email@dominio.com`
-- **LinkedIn:** `linkedin.com/in/seu-usuario`
-- **GitHub:** `github.com/seu-usuario`
